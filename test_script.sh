@@ -2,5 +2,5 @@
 date=`date`
 echo "hello $USER"
 echo "the time is" $date
+echo "Hello world!"
 
-/90days/path/sclript
